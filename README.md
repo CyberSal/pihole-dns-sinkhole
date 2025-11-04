@@ -61,4 +61,4 @@ In your Eero app:
 ```Navigate to:
 Settings → Network Settings → DNS → Custom DNS
 Primary DNS: 192.168.4.80
-Secondary DNS: (leave blank)
+Secondary DNS: 8.8.8.8
