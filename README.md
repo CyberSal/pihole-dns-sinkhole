@@ -47,7 +47,7 @@ Enabled web admin interface
 Accepted default blocklists
 
 ### 5. Reserve Static IP in Eero
-Open Eero app
+Open ISP app
 
 Go to: Settings → Network Settings → Reservations
 
